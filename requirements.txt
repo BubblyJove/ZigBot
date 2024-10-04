@@ -1,0 +1,17 @@
+discord.py
+aiohttp
+pyyaml
+loguru
+nltk
+textblob
+better_profanity
+cachetools
+pytest
+mypy
+flake8
+black
+python-dotenv
+aiofiles
+prometheus_client
+PyQt5
+aiologger

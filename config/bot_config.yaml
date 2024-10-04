@@ -1,0 +1,25 @@
+discord:
+  token: "${DISCORD_TOKEN}"
+  prefix: "!"
+  announcement_channel: "announcements"
+
+bot:
+  description: "A Discord Bot"
+  admin_channel_id: "1290204704604946514"
+
+censorship:
+  deletion_delay: 6  # in hours
+
+thread_management:
+  channels:
+    "1290188711476072522":
+      board: "g"
+      keywords:
+        - "example"
+      following:
+        - 1290188711476072522
+  check_interval: 5  # in minutes
+
+logging:
+  file: "logs/bot.log"
+  level: "INFO"

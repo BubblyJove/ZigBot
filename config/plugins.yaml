@@ -1,0 +1,4 @@
+# Configuration file for bot plugins
+
+enabled_plugins:
+  - example_plugin

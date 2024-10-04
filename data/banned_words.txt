@@ -1,0 +1,51 @@
+# Banned words list
+# Each line is a regex pattern
+
+# Common racial slurs (do not include actual slurs)
+nig
+jew
+spic
+nog
+chink
+kike
+edomite
+berg
+gook
+chinese
+chink
+jogger
+pavement ape
+anti-semitic
+muslim
+isis
+
+# Words related to drugs
+coke
+cocaine
+heroin
+drug
+crack
+
+# The word 'women' with variations
+wo+men
+cunt
+
+# Additional patterns
+trann
+tard
+retard
+autis
+fag
+rape
+basketball american
+suicide
+pedo
+murder
+nazi
+hitler
+vaccine
+vax
+wef
+kalus
+shoplift
+1488
